@@ -10,7 +10,7 @@ Hello stranger! my name is Vivek Dhiman and I am a Full Stack Developer, passion
 
    <p align="center" color:"red">
      <a href="https://github.com/Dhiman-22/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Vivek Agrawal 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Vivek Dhiman 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
