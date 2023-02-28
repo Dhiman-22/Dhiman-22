@@ -63,17 +63,17 @@ Hello stranger! my name is Vivek Dhiman and I am a Full Stack Developer, passion
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dhiman-22&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiman-22&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiman-22&theme=react&count_private=true&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=Dhiman-22&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=Dhiman-22&_border=true&theme=dark&count_private=true&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Vivek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dhiman-22&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Vivek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dhiman-22&count_private=true&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
